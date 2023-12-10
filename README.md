@@ -19,7 +19,7 @@ Usage
 -Filtering a Task: Select a menu "all", "completed", and "incomplete" to filter the task based on the selected menu.
 
 License
-This project is all rights reserved  reserved by Mark Daniel Edillor.
+This project is all rights reserved  by Mark Daniel Edillor.
 
 Contact
 For any questions or feedback, feel free to contact me at edillormark2@gmail.com and my FB account Mark Daniel Edillor.
