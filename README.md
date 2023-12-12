@@ -7,8 +7,6 @@
 
 * This is a simple web-based Todo List application designed to help users manage their tasks efficiently.
 
-This is a simple web-based Todo List application designed to help users manage their tasks efficiently.
-
 ## Features
 1. **Task Management**: Add, edit, delete, search, and mark tasks as complete.
 2. **User-Friendly Interface**: Intuitive and easy-to-use interface for better user experience.
